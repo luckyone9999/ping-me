@@ -85,3 +85,6 @@ _Add `-v` flag at the end to see the verbose output._
  - [ ] `ping-me` works on Windows phone
 
 __Contribution__ : Please feel free to report bugs in the application. I'll try to fix them. Also, if either of ~~javascript~~ or android is your piece of cake, please contact me and we'll make things up real quick. Enjoy anyways!
+
+
+test.a
